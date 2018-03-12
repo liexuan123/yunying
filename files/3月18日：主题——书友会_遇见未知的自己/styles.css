@@ -18,15 +18,16 @@
   left:0px;
   top:0px;
   width:460px;
-  height:180px;
+  height:120px;
 }
 #u2 {
   border-width:0px;
   position:absolute;
   left:90px;
-  top:60px;
+  top:171px;
   width:460px;
-  height:180px;
+  height:120px;
+  font-size:16px;
   line-height:30px;
 }
 #u3 {
@@ -117,4 +118,29 @@
   top:0px;
   width:85px;
   white-space:nowrap;
+}
+#u10_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:443px;
+  height:90px;
+}
+#u10 {
+  border-width:0px;
+  position:absolute;
+  left:90px;
+  top:60px;
+  width:443px;
+  height:90px;
+}
+#u11 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:37px;
+  width:439px;
+  visibility:hidden;
+  word-wrap:break-word;
 }
